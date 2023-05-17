@@ -14,7 +14,8 @@ const Search = () => {
             shadow-sm
             hover:shadow-md
             transition
-            cursor-pointer         
+            cursor-pointer   
+            max-width-10      
          "
     >
       <div
